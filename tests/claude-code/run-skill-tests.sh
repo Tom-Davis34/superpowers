@@ -79,6 +79,7 @@ tests=(
     "test-finish-pr-default.sh"
     "test-planning-artifacts-untracked.sh"
     "test-sdd-workspace.sh"
+    "test-executing-plans-scripts.sh"
     "test-subagent-driven-development.sh"
 )
 
